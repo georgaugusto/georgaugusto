@@ -12,6 +12,7 @@ Aqui no meu perfil GitHub você pode ver todos os meus projetos.<br/>
 
 Obrigado por ler e aqui estão links úteis! 💜
 
+- 😄 Meu [Portfolio](https://georgaugusto.netlify.app)
 - 🌱 Meu projeto atual Sol ou Chuva - [Repositório](https://github.com/georgaugusto/solouchuva) e [Web](https://app.solouchuva.com.br/dashboard)
 
 <a href="https://www.linkedin.com/in/georgaugusto/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Georg%20Schegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/></a>
