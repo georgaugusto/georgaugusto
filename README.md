@@ -14,6 +14,7 @@ Obrigado por ler e aqui estão links úteis! 💜
 
 - 😄 Meu [Portfolio](https://georgaugusto.netlify.app)
 - 🌱 Meu projeto atual Sol ou Chuva - [Repositório](https://github.com/georgaugusto/solouchuva) e [Web](https://app.solouchuva.com.br/dashboard)
+- 📕 Minha Pokedex - [Repositório](https://github.com/georgaugusto/pokedex-nextjs) e [Web](https://pokedex-nextjs.netlify.app/dashboard)
 
 <a href="https://www.linkedin.com/in/georgaugusto/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Georg%20Schegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/></a>
 <a href="mailto:georgaugusto@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-georgaugusto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgaugusto@gmail.com"/></a>
