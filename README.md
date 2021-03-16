@@ -13,6 +13,7 @@ Aqui no meu perfil GitHub você pode ver todos os meus projetos.<br/>
 Obrigado por ler e aqui estão links úteis! 💜
 
 - 😄 Meu [Portfolio](https://georgaugusto.netlify.app)
+- 🚀 Ignite - [Trilha ReactJS](https://github.com/georgaugusto/ignite-react-js)
 - 🌱 Meu projeto atual Sol ou Chuva - [Repositório](https://github.com/georgaugusto/solouchuva) e [Web](https://app.solouchuva.com.br/dashboard)
 - 📕 Minha Pokedex - [Repositório](https://github.com/georgaugusto/pokedex-nextjs) e [Web](https://pokedex-nextjs.netlify.app/dashboard)
 
