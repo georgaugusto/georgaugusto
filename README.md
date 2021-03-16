@@ -19,7 +19,7 @@ Obrigado por ler e aqui estão links úteis! 💜
 
 **Cursos:**
 - 🚀 Rocketseat Ignite - [Trilha ReactJS](https://github.com/georgaugusto/ignite-react-js)
-- 📗 Gama Academy - [Gama Experience #36 (Desenvolvimento Front-End)](https://github.com/georgaugusto/ignite-react-js)
+- 📗 Gama Academy - [Gama Experience #36 (Desenvolvimento Front-End)](https://github.com/georgaugusto/gamaexperience-36)
 - 🏕️ Rocketseat Bootcamp - [Go Stack 11 (NodeJS, React, ReactNative)](https://github.com/georgaugusto/ignite-react-js)
 - 🅰️ Alura - [Front-end](https://github.com/georgaugusto/Alura)
 - 🚀 Rocketseat - [Semana OmniStack 11.0](https://github.com/georgaugusto/seja-um-heroi)
