@@ -19,7 +19,7 @@ Obrigado por ler e aqui estão links úteis! 💜
 - 🍅 Arduino Pomodoro Timer - [Repositório](https://github.com/georgaugusto/pomodoroArduino)
 
 **Cursos:**
-- 🚀 Rocketseat Ignite - [Trilha ReactJS](https://github.com/georgaugusto/ignite-react-js)
+- 🚀 Rocketseat Ignite - [Trilha Node.js](https://github.com/georgaugusto/ignite-node-js) e [Trilha ReactJS](https://github.com/georgaugusto/ignite-react-js)
 - 📗 Gama Academy - [Gama Experience #36 (Desenvolvimento Front-End)](https://github.com/georgaugusto/gamaexperience-36)
 - 🏕️ Rocketseat Bootcamp - [Go Stack 11 (NodeJS, React, ReactNative)](https://github.com/georgaugusto/gostack-11)
 - 🅰️ Alura - [Front-end](https://github.com/georgaugusto/Alura)
