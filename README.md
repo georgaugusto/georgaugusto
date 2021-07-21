@@ -2,7 +2,7 @@
 
 Ser desenvolvedor não foi minha primeira opção, terminei o colegial sem saber o que queria, acabei optando por fazer faculdade, e a escolha foi cursar engenharia Mecânica(porque achei que gostasse), cheguei a concluir o curso, mas no final sabia que não queria seguir na carreira.<br/>
 
-Sabendo disso resolvi começar tudo de novo, quando ainda era criança, vivia mexendo no computador, criando servers de jogo e páginas web, descobrindo mais tarde o que realmente era aquilo. Então decidi cursar análise e desenvolvimento de sistemas, e me tornar um desenvolvedor, até aqui foram muitos cursos, palestras, eventos, workshops, aprendi com tudo isso, HTML, CSS, C++ e ando me aperfeiçoando em JavaScript, TypeScript, NodeJS, ReactJS, React Native e por fim me aventurando em projetos IoT e no Figma com projetos de UX .<br/>
+Sabendo disso resolvi começar tudo de novo, quando ainda era criança, vivia mexendo no computador, criando servers de jogo e páginas web, descobrindo mais tarde o que realmente era aquilo. Então decidi cursar análise e desenvolvimento de sistemas, e me tornar um desenvolvedor, até aqui foram muitos cursos, palestras, eventos, workshops, aprendi com tudo isso, HTML, CSS, C++ e ando me aperfeiçoando em JavaScript, TypeScript, NodeJS, ReactJS, Next.js, React Native e por fim me aventurando em projetos IoT e no Figma com projetos de UX .<br/>
 
 Atualmente estou desenvolvendo um projeto pessoal de um protótipo de IoT para Smart Agriculture, com foco em monitoramento meteorológico na placa de desenvolvimento NodeMCU, utilizando a IDE do Arduino, banco Firebase Realtime e linguagens NodeJS, ReactJS e React Native para o desenvolvimento Web e mobile.<br/>
 
