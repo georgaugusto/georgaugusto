@@ -14,7 +14,7 @@ Obrigado por ler e aqui estão links úteis! 💜
 
 **Projetos:**
 - 😄 Meu [Portfolio](https://georgaugusto.netlify.app)
-- 📈 Dashboard das empresas listadas na NASDAQ [Repositório](https://github.com/georgaugusto/challenge-ima-nextjs) e [Web](https://imanextjs.netlify.app/)
+- 📈 Dashboard das empresas listadas na NASDAQ - [Repositório](https://github.com/georgaugusto/challenge-ima-nextjs) e [Web](https://imanextjs.netlify.app/)
 - 🌱 Meu projeto atual Sol ou Chuva - [Repositório](https://github.com/georgaugusto/solouchuva) e [Web](https://app.solouchuva.com.br/dashboard)
 - 📕 Minha Pokedex - [Repositório](https://github.com/georgaugusto/pokedex-nextjs) e [Web](https://pokedex-nextjs.netlify.app/dashboard)
 - 🍅 Arduino Pomodoro Timer - [Repositório](https://github.com/georgaugusto/pomodoroArduino)
