@@ -14,6 +14,7 @@ Obrigado por ler e aqui estão links úteis! 💜
 
 **Projetos:**
 - 😄 Meu [Portfolio](https://georgaugusto.netlify.app)
+- 🔐 Autenticação e autorização em React com JWT, refesh token, context e token decode - [Repositório Back-end](https://github.com/georgaugusto/back-end-authenticationandauthorization) e [Repositório Front-end](https://github.com/georgaugusto/front-end-authenticationandauthorization)
 - 📈 Dashboard das empresas listadas na NASDAQ - [Repositório](https://github.com/georgaugusto/challenge-ima-nextjs) e [Web](https://imanextjs.netlify.app/)
 - 🌱 Meu projeto atual Sol ou Chuva - [Repositório](https://github.com/georgaugusto/solouchuva) e [Web](https://app.solouchuva.com.br/dashboard)
 - 📕 Minha Pokedex - [Repositório](https://github.com/georgaugusto/pokedex-nextjs) e [Web](https://pokedex-nextjs.netlify.app/dashboard)
